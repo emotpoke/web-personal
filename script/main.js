@@ -11,7 +11,7 @@ document.addEventListener('keydown', function(e) {
 
 const messages = [
     "Tap dimana aja yaaa",
-    "hey Tiassssssss",
+    "hey saviraaaaa",
     "aing pengen ngomong nich",
     "coba pencet",
     "pencet lagi",
